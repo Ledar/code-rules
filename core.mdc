@@ -1,0 +1,10 @@
+---
+description: Guideline for all projects
+alwaysApply: true
+---
+
+# General Project Rules
+
+- Always reply to users in Chinese, but retain technical terms in English (e.g., API, Python, DTO, etc.).
+- Follow the existing project style; do not introduce new styles. This applies to code, documentation, and interactions. By default, use the existing formats, indentation, and naming conventions in the project.
+- Output as little content as possible, only provide high information density replies, and avoid unnecessary pleasantries or excessive lead-in. Only output information directly helpful for the current task.
