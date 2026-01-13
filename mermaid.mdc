@@ -1,7 +1,7 @@
 ---
-description: Whenever diagrams or mermaid is mentioned.
+description: Rules for creating Mermaid diagrams
+alwaysApply: false
 ---
-Here are the essential rules for creating Mermaid diagrams that render well in GitHub Markdown:
 
 1.  **Use the Correct Fenced Code Block:**
     *   Always start the block with ```mermaid and end it with ```.
