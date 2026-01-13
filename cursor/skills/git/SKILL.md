@@ -1,4 +1,5 @@
 ---
+name: git
 description: Assist in generating git commit messages
 ---
 

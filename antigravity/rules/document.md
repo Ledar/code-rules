@@ -1,5 +1,6 @@
 ---
 description: Markdown Documentation Guidelines
+trigger: glob
 globs: *.md
 ---
 

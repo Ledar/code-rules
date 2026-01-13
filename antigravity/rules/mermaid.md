@@ -1,7 +1,9 @@
 ---
+trigger: model_decision
 description: Rules for creating Mermaid diagrams
-alwaysApply: false
 ---
+
+# Rules for creating Mermaid diagrams
 
 1.  **Use the Correct Fenced Code Block:**
     *   Always start the block with ```mermaid and end it with ```.

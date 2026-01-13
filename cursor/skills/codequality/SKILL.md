@@ -1,6 +1,8 @@
 ---
+name: codequality
 description: Code Quality Guidelines
 ---
+
 # Code Quality Guidelines
 
 ## Verify Information

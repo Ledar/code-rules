@@ -1,6 +1,8 @@
 ---
+name: gitflow
 description: Gitflow Workflow Rules. These rules should be applied when performing git operations.
 ---
+
 # Gitflow Workflow Rules
 
 ## Main Branches
