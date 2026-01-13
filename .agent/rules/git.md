@@ -8,7 +8,7 @@ description: Assist in generating git commit messages
 ## Key Principles
 - **Important**: Never commit git code automatically unless explicitly instructed
 - Ensure all tests pass before committing
-- Keep commit messages simple and clear, accurately describing the changes
+- Keep commit messages simple and clear, accurately describing the changes, always use Chinese
 - Avoid large commits; break changes into small and related commits whenever possible
 
 ## Commit Guidelines

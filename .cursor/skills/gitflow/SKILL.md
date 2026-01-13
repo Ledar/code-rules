@@ -54,6 +54,7 @@ description: Gitflow Workflow Rules. These rules should be applied when performi
 
 ## Commit Messages
 
+- Always use Chinese
 - Format: `type(scope): description`
 - Types:
   - feat: New feature
